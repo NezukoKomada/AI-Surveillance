@@ -1,0 +1,41 @@
+body{
+    background: url(background.jpg);
+    background-size: cover;
+    color: white;
+    font-family: "Pacifico", cursive;
+}
+
+#heading{
+    font-family: "Nabla", system-ui !important;
+    width: 100%;
+    margin-top: 0%;
+    font-size: 50px;
+    background: linear-gradient(to right, pink, rgb(20, 192, 255));
+}
+
+#start{
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
+
+h3{
+    font-size: x-large;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    background-color: gray;
+    line-height: 2;
+    font-size: x-large;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 10px 10px 10px whitesmoke;
+}
